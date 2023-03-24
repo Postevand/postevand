@@ -1,10 +1,6 @@
 name: Generate Data
 
 on: [push]
-//  schedule: # execute every 48 hours
-//    - cron: "* */48 * * *"
-//  workflow_dispatch:
-
 jobs:
   build:
     name: Jobs to update datas
