@@ -6,12 +6,6 @@
 ```python
 Languages  :  Python, Java, Js
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/postevand/postevand/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/postevand/postevand/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/postevand/postevand/output/github-contribution-grid-snake.svg">
-</picture>
-
+<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 
  
