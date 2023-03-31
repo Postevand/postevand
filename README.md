@@ -7,4 +7,4 @@
 Languages  :  Python, Java, Js
 ```
 
-<a href="https://discord.gg/qveHUgf3wa" target="_blank"><img src="https://github.com/Postevand/postevand/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://discord.gg/hunger-squad" target="_blank"><img src="https://github.com/Postevand/postevand/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
