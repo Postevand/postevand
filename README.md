@@ -18,7 +18,7 @@ Languages  :  Python, Java, Js
 
 ## 🚀 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikonardo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Postevand&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Postevand
 
 <a href="https://discord.gg/hunger-squad" target="_blank"><img src="https://github.com/Postevand/postevand/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
