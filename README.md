@@ -5,6 +5,8 @@
 
 ```python
 Languages  :  Python, Java, Js
+- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=java)
+
 ```
 
 
