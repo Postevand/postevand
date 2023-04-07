@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Postevand" alt="Profile Forks"></a>
 <p align="center"><a href="https://discord.gg/hunger-squad" target="_blank"><img src="https://discordapp.com/api/guilds/1084775398346330122/widget.png?style=shield" alt="shield.png"></a></p></p>
 
-<p align="center"><b>I am a young student developer from Denmark 🇩🇰!<br>My hobbies are making software, and skateboarding in my free time ✨</b></p>
+<p align="center"><b>I am a young student developer from Denmark 🇩🇰!<br>My hobbies are making software, and skateboarding in my free time 🛹</b></p>
 
 <h2 align="center">🌍 Languages/IDEs</h2>
 
