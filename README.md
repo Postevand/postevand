@@ -8,7 +8,7 @@
 
 <h2 align="center">Languages/IDEs</h2>
 
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=vs-code)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=v-s-code)
 ![Intellij](https://img.shields.io/badge/-Intellij-black?style=flat-square&logo=intellij-idea)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
