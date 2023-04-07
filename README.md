@@ -25,7 +25,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/361912266003709952?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20having%20a%20life..."> 
 </div>
 
-## 🚀 Stats
+<h2 align="center">🚀 Stats</h2>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Postevand&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Postevand&hide=html&layout=compact&theme=tokyonight)
