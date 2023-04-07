@@ -10,7 +10,7 @@
 
 ![VSCode](https://img.shields.io/badge/-VS--Code-blue?style=flat-square&logo=visual-studio-code)
 ![Intellij](https://img.shields.io/badge/-Intellij-critical?style=flat-square&logo=intellij-idea)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
