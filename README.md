@@ -16,5 +16,9 @@ Languages  :  Python, Java, Js
   <img src="https://lanyard-profile-readme.vercel.app/api/361912266003709952?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20having%20a%20life..."> 
 </div>
 
+## 🚀 Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rikonardo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
 
 <a href="https://discord.gg/hunger-squad" target="_blank"><img src="https://github.com/Postevand/postevand/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
