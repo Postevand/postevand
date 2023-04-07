@@ -4,7 +4,8 @@
 <p align="center"><a href="https://discord.gg/hunger-squad" target="_blank"><img src="https://discordapp.com/api/guilds/1084775398346330122/widget.png?style=shield" alt="shield.png"></a></p></p>
 
 ```python
-Languages  :  Python, Java, Js ```
+Languages  :  Python, Java, Js 
+'''
 - ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=java)
 
 
