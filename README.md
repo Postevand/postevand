@@ -6,7 +6,7 @@
 
 <p align="center"><b>I am a young student developer from Denmark 🇩🇰!<br>My hobbies are making software, and skateboarding in my free time ✨</b></p>
 
-## Languages/IDEs
+<h2 align="center">Languages/IDEs</h2>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
