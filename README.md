@@ -31,9 +31,7 @@
 
 <h2 align="center">🚀 Stats</h2>
 
-<div align="center"
-  <img src="https://github-readme-stats.vercel.app/api?username=Postevand&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Postevand&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Postevand&hide=html&layout=compact&theme=tokyonight)
 
