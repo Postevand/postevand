@@ -35,8 +35,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Postevand&hide=html&layout=compact&theme=tokyonight)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-
 <a href="https://discord.gg/hunger-squad" target="_blank"><img src="https://github.com/Postevand/postevand/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
