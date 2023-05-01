@@ -26,7 +26,7 @@
 <h2 align="center">🔌 Status</h2>
 
 <div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/361912266003709952?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20having%20a%20life..."> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/361912266003709952?theme=dark&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20having%20a%20life..."> 
 </div>
 
 <h2 align="center">🚀 Stats</h2>
